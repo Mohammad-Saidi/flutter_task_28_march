@@ -7,7 +7,7 @@ A Flutter application that allows users to explore characters from the Rick and 
 1. **Prerequisites**: Ensure you have Flutter SDK installed (version `^3.5.0` or compatible).
 2. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Mohammad-Saidi/flutter_task_28_march.git>
    cd flutter_task_28_march
    ```
 3. **Install dependencies**:
